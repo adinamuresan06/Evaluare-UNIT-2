@@ -61,16 +61,16 @@ border-radius: 8px;
 table,td,th{
   border: 3px solid black;
   border-color: #FF8C00;
-
   background-color: #A9A9A9;
+	margin-left: 100px;
+  margin-right: 100px;
 	
 	
 }
 table {
   width: 80%;
   border-collapse: collapse;
-  margin-left: 50px;
-  margin-right: 50px;
+ 
 }
 th
 {text-decoration: underline;
