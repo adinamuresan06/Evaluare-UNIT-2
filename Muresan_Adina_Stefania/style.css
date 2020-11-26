@@ -62,8 +62,8 @@ table,td,th{
   border: 3px solid black;
   border-color: #FF8C00;
   background-color: #A9A9A9;
-	margin-left: 100px;
-  margin-right: 100px;
+	margin-left: auto;
+  margin-right: auto;
 	
 	
 }
